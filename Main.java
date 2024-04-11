@@ -8,7 +8,7 @@ import java.util.Set;
 
 public class Main {
     public static void main(String[] args) throws FileNotFoundException {
-        File file = new File("C:\\Users\\Phavour\\Desktop\\File1.txt");
+        File file = new File("C:\\Users\\Phavour\\OneDrive\\Desktop\\File1.txt");
         
         ArrayList<String> lines = new ArrayList<>();
         Scanner input = new Scanner(file);
