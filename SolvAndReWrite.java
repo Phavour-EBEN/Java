@@ -28,6 +28,7 @@ public class SolvAndReWrite {
                 y+=x-y;
                 break;
     }
+    System.out.println(y);
 
     }
 }
