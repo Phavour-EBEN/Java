@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Fil {
     public static void main(String[] args) {
-        File inputFile = new File("Text.txt");
+        File inputFile = new File("C:\\Users\\Phavour\\OneDrive\\Desktop\\File1.txt");//specify the file path
         Scanner input = null;
         try {
             input = new Scanner(inputFile);

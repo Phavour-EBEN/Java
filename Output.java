@@ -10,5 +10,11 @@ public class Output {
         String mesg = "Welcome to Java Programming";
         System.out.println(mesg.substring(4,5));
         System.out.println(mesg.substring(15,20));
+
+        System.out.println("John said \"Java is fun and easy\"");
+        System.out.println("John said \'Java is fun and easy\'");
+
+        // System.out.println(1 / 0);//will throw an error when trying to execute the command
+        System.out.println(1.0 / 0);
     }
 }
